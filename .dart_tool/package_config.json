@@ -111,7 +111,7 @@
     },
     {
       "name": "firebase_crashlytics_platform_interface",
-      "rootUri": "file:///Users/huangjiaheng/lib/flutter/.pub-cache/git/firebase_crashlytics_platform_interface-3.2.0-4d0ad6c38a94c95fee1b92a782ee3f220cbdefdf/",
+      "rootUri": "file:///Users/huangjiaheng/lib/flutter/.pub-cache/git/firebase_crashlytics_platform_interface-3.2.0-16a30a374def6f630728437733703a29621b3dcf/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -374,7 +374,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-12-06T07:23:15.775072Z",
+  "generated": "2022-12-06T07:30:50.511849Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
