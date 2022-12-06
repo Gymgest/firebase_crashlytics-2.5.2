@@ -134,7 +134,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "4d0ad6c38a94c95fee1b92a782ee3f220cbdefdf"
+      resolved-ref: "16a30a374def6f630728437733703a29621b3dcf"
       url: "https://github.com/Gymgest/firebase_crashlytics_platform_interface-3.2.0.git"
     source: git
     version: "3.2.0"
